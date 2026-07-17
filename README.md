@@ -1,106 +1,141 @@
-<h1 align="center">Hi 👋, I'm Lena Maria</h1>
-<h3 align="center">🎓 MCA Student | 💻 Software Developer | 🚀 Tech Enthusiast</h3>
+<!-- ================= HEADER ================= -->
 
-<p align="center">
-Passionate about building innovative software solutions and exploring emerging technologies.
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Hi+👋+I'm+Your+Name;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" />
 
-## 👨‍💻 About Me
+<br>
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 💻 Passionate Software Developer
-- 🌱 Currently learning **Machine Learning, Artificial Intelligence, and Augmented Reality**
-- 🚀 Interested in developing projects across all IT domains
-- 🤝 Open to collaborating on innovative and open-source projects
-- 📚 Always eager to learn new technologies and frameworks
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,php,java,python" />
-</p>
+<table>
+<tr>
 
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-</p>
+<td width="60%">
 
-### Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
+### 👨‍💻 Who Am I?
 
-- 🤖 Artificial Intelligence (AI)
-- 🧠 Machine Learning (ML)
-- 🥽 Augmented Reality (AR)
+- 🔥 Passionate Full Stack Developer
+- 🌱 Currently learning AI & Cloud
+- 💡 Love solving real-world problems
+- 🚀 Building scalable applications
+- 🤝 Open Source Contributor
+- ⚡ Coffee + Code = Productivity
 
----
+</td>
 
-## 🚀 Interests
+<td>
 
-- 🌐 Full Stack Web Development
-- 🤖 AI & Machine Learning
-- 📱 Software Development
-- 📊 Data Analysis
-- ☁️ Cloud Computing
-- 🔍 Problem Solving
-- 💡 Emerging Technologies
+<img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" width="280">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📂 Featured Projects
+# 🛠 Tech Stack
 
-- 🌐 Web Applications
-- 🤖 AI & ML Projects
-- 💻 Java Applications
-- 🐍 Python Projects
-- 📱 College Mini & Major Projects
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,java,spring,mongodb,postgres,mysql,docker,git,github,vscode,linux,aws,firebase&perline=7"/>
 
-## 🎯 Goals
-
-- ✅ Build real-world software solutions
-- ✅ Master AI & Machine Learning
-- ✅ Contribute to Open Source
-- ✅ Become a Full Stack Developer
-- ✅ Explore Cloud & DevOps
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+<br><br>
 
-## 🏆 GitHub Trophies
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10)
+<br><br>
 
----
+<img width="600" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: https://yourportfolio.com
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# 🏆 GitHub Trophies
 
-<p align="center">
-⭐ Thanks for visiting my profile! Let's connect and build something amazing together. 🚀
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 💻 Current Focus
+
+```text
+🚀 Building Full Stack Applications
+🤖 Learning Artificial Intelligence
+☁️ Exploring AWS & DevOps
+📚 Improving System Design
+```
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚀 Project One | Full Stack Web App | React + Node |
+| 💬 Project Two | Real-time Chat | Socket.io |
+| 🤖 Project Three | AI Assistant | Python |
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="mailto:you@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Visitor Count
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+<br><br>
+
+### ⭐ Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+
+</div>
